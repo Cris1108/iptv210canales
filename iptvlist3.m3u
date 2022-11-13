@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png", Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png", Pluto TV Reality
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png", Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png", Pluto TV Misterios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png", Pluto TV Hogar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png", Pluto TV  Competencias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png", Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png", Pluto TV Velocidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png", Pluto TV Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png", Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png", Pluto TV Ciencia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png", Pluto TV Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png", Pluto TV Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png", Pluto TV Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png", Nick Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png", Pluto TV Historia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Pluto TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png", Pluto TV  Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", Pluto TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png", MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png", Fútbol Para Fans
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png", Minuto Para Ganar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png", Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png", Pluto TV Animé Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png", Pluto TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png", Estrellas de Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png", Pluto TV Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png", The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png", People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png", The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png", FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png", Wipe Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png", Pluto TV Fashionstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png", Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png", Misterios Medicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png", Historias de Ultratumba
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png", Misterios sin Resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png", Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png", Dog el cazarrecompensas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png", Lucha Libre AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png", Nosey Escándalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png", Kenan y Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png", One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png", Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Paramount+ Presenta" logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png", Paramount+ Presenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Pluto TV Retro Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png", Pluto TV Anime Héroes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png", Pluto TV Recetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png", Boom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png", Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="2744" group="Deportes" logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png", Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png", El Encantador de Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Investigación" logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png", Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png", Pluto TV Mi Obsesión Favorita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="4172" group="Deportes" logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png", FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png", Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png", MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png", Pluto TV Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png", Schitt's Creek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png", Nickelodeon iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png", The Night Shift
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png", Bob Esponja Pantalones Cuadrados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Curiosidad" logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png", Maestros de la Ilusión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png", Pluto TV E-Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png", ESR 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Animé & Gaming" logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png", Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Comedia" logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png", La Familia del Barrio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png", La Liga Premier | Paramount+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | A&E HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU", CINE  | A&E HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147251
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | CINEMAX HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU", CINE  | CINEMAX HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147254
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | STAR CHANNEL  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU", CINE | STAR CHANNEL  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147256
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | HBO 2 HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU", CINE | HBO 2 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147259
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | HBO 2  SD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU", CINE | HBO 2  SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147260
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | HBO PLUS  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU", CINE  | HBO PLUS  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147265
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | HBO FAMILY  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU", CINE | HBO FAMILY  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147268
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | HBO  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU", CINE | HBO  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147271
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | HBO POP  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU", CINE  | HBO POP  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147274
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | TNT  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU", CINE  | TNT  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147277
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | TNT SERIES  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU", CINE | TNT SERIES  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147280
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | CINECANAL  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU", CINE | CINECANAL  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147283
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | AXN  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU", CINE | AXN  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147286
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | WARNER  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", CINE | WARNER  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147289
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | WARNER  SD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU", CINE | WARNER  SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147290
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | SONY  SD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU", CINE | SONY  SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147293
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | TCM  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU", CINE | TCM  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147295
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | UNIVERSAL CHANEL  HD" group="Cine Premium ▶️" logo="http://127.0.0.1/", CINE | UNIVERSAL CHANEL  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147298
+#EXTINF:0 type="favorites" channelId="-1" name="CINE  | STUDIO UNIVERSAL  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_G4WnSyQgJoobZi_JQ1D0HNpClNyqCAmTDg&usqp=CAU", CINE  | STUDIO UNIVERSAL  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147301
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | FX  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU", CINE | FX  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147304
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | FX  SD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU", CINE | FX  SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147305
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | FXM HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5-2zA8d8BZ17XPVLEidzJj-s8rKlOoTntg&usqp=CAU", CINE | FXM HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147306
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | SPACE CHANEL  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU", CINE | SPACE CHANEL  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147308
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | AMC HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU", CINE | AMC HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147311
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | GOLDEN  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU", CINE | GOLDEN  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147314
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | GOLDEN EDG  HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU", CINE | GOLDEN EDG  HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147317
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | PARAMOUNT CHANEL HD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU", CINE | PARAMOUNT CHANEL HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147323
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | PARAMOUNT CHANEL SD" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU", CINE | PARAMOUNT CHANEL SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147324
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | CINE LATINO" group="Cine Premium ▶️" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU", CINE | CINE LATINO
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147328
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Comedy" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/7adb12918af05036734d1f6ebbbd843a.png", P | Universal Comedy
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147329
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Crime Este" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/5f9bdadd92cc63bf5567b22706b25391.png", P | Universal Crime Este
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147330
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Premier Este" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/f8ad17fe253c743c4d755af0d8675f77.png", P | Universal Premier Este
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147331
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Reality" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/44f8482fbbd867d92b16ce63970d125f.png", P | Universal Reality
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147332
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Cinema" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/4b234a4de08c836188a20457617f21c1.png", P | Universal Cinema
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147333
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Crime Oeste" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/5f9bdadd92cc63bf5567b22706b25391.png", P | Universal Crime Oeste
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147334
+#EXTINF:0 type="favorites" channelId="-1" name="P | Universal Premier Oeste" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/f8ad17fe253c743c4d755af0d8675f77.png", P | Universal Premier Oeste
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147335
+#EXTINF:0 type="favorites" channelId="3743" name="DHE" group="Cine Premium ▶️" logo="http://streamgo.vip:8008/images/b12b449989ce06acdcb558c9d9c3ea0f.png", DHE
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147337
+#EXTINF:0 type="favorites" channelId="341" name="(ONLINE) Discovery Channel HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/c29b6634fb9fb066f108292b19783846.png", (ONLINE) Discovery Channel HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147213
+#EXTINF:0 type="favorites" channelId="2724" name="(ONLINE) Discovery Home & Health HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/18a46c79d2b83ca85de015acb0ea7c27.png", (ONLINE) Discovery Home & Health HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147215
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) Discovery Investigation HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/60c36490979d218b11fe33de75c3ae9f.png", (ONLINE) Discovery Investigation HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147218
+#EXTINF:0 type="favorites" channelId="58" name="(ONLINE) DISCOVERY Science" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/a39600d9aeb6d3ab0724ed30d432dd28.png", (ONLINE) DISCOVERY Science
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147219
+#EXTINF:0 type="favorites" channelId="2558" name="(ONLINE) DISCOVERY Theater HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/4618e0afa17f23b09eaebe21a44152d2.png", (ONLINE) DISCOVERY Theater HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147221
+#EXTINF:0 type="favorites" channelId="2840" name="(ONLINE) DISCOVERY Turbo SD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/ad6a9120097fe0fae35a39d5ef541019.png", (ONLINE) DISCOVERY Turbo SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147222
+#EXTINF:0 type="favorites" channelId="2839" name="(ONLINE) DISCOVERY World SD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/ad550471be2c0419dcc11e68d64fb791.png", (ONLINE) DISCOVERY World SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147224
+#EXTINF:0 type="favorites" channelId="2890" name="(ONLINE) DISCOVERY World HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/ad550471be2c0419dcc11e68d64fb791.png", (ONLINE) DISCOVERY World HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147225
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) Discovery Familia HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/ed8b0e82fb7924fcc16cad60bde62e1d.png", (ONLINE) Discovery Familia HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147227
+#EXTINF:0 type="favorites" channelId="310" name="(ONLINE) EL GOURMET" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/12caff19d9bd091baf6ca98f88c2848f.png", (ONLINE) EL GOURMET
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147228
+#EXTINF:0 type="favorites" channelId="1456" name="(ONLINE) HISTORY HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/1f28729d4b82ea6380df63428c4eccc0.png", (ONLINE) HISTORY HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147229
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) NATIONA Geographic HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/e58be90d3f23edbd0801dfb42cb782a4.png", (ONLINE) NATIONA Geographic HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147234
+#EXTINF:0 type="favorites" channelId="206" name="(ONLINE) NATGEO WILD HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/6430f99e9aeb3b96985e83d957474143.png", (ONLINE) NATGEO WILD HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147236
+#EXTINF:0 type="favorites" channelId="240" name="(ONLINE) ANIMAL Planet HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/4d245a19aec9937625bc8ea9c7ebd604.png", (ONLINE) ANIMAL Planet HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147238
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) E! Entretainment HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/ef339af0eb2ca90670841fd56c9caca0.png", (ONLINE) E! Entretainment HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147240
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) CANAL COCINA HD." group="Cultura ⭐" logo="http://streamgo.vip:8008/images/48cedf7a7d926d74540133e3eb4d7fb7.png", (ONLINE) CANAL COCINA HD.
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147241
+#EXTINF:0 type="favorites" channelId="1040" name="(ONLINE) TLC HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/55a74ffaf06450c83d7a6bbeff81e5a4.png", (ONLINE) TLC HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147243
+#EXTINF:0 type="favorites" channelId="-1" name="(ONLINE) HOLA! TV" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/91baba8d0eceed1380615b925145b3ae.png", (ONLINE) HOLA! TV
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147244
+#EXTINF:0 type="favorites" channelId="1418" name="(ONLINE) HGTV HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/94c2d3a7873fadd47a4a5d44f6f4a93a.png", (ONLINE) HGTV HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147246
+#EXTINF:0 type="favorites" channelId="1200" name="(ONLINE) LIFETIME HD" group="Cultura ⭐" logo="http://streamgo.vip:8008/images/81722b5ff56bf910713ba166ab3b6df4.png", (ONLINE) LIFETIME HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147247
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | #VAMOS HD" group="Deporte ⚽" logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo", DEPORTES | #VAMOS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127945
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes | Afizzionados HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/25ef4635bc5818efc86042ee0ddb11cc.jpg", Deportes | Afizzionados HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127947
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | BEIN SPORTS Ñ SD" group="Deporte ⚽" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnKAe9OFWsENFtkwYjbqqgiW0l0lAbBLupD9VnuWy6C91dOR8&s", DEPORTES | BEIN SPORTS Ñ SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127957
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | BEIN SPORTS Ñ SD" group="Deporte ⚽" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnKAe9OFWsENFtkwYjbqqgiW0l0lAbBLupD9VnuWy6C91dOR8&s", DEPORTES | BEIN SPORTS Ñ SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127958
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | Bein Sports Ñ HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/8f87a82f4e73c67e61d1eaa2cf493475.jpg", DEPORTES | Bein Sports Ñ HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127959
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | DIRECTV SPORT + HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/3e3b995fe19c7c1ab54f8a302ae04b94.png", DEPORTES | DIRECTV SPORT + HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127962
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | DIRECTV SPORTS 1 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/3e3b995fe19c7c1ab54f8a302ae04b94.png", DEPORTES | DIRECTV SPORTS 1 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127964
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | DIRECTV SPORTS 2" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/4907fe4582f465f8ef13ec7a8c6b4bbe.png", DEPORTES | DIRECTV SPORTS 2
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127966
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | El GARAGE" group="Deporte ⚽" logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/2274/brand.gif?itok=sH1UGnPO", DEPORTES | El GARAGE
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127968
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | ESPN +" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/9c280460d9ca687a033e0481601bd02e.png", DEPORTES | ESPN +
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127969
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | ESPN HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png", DEPORTES | ESPN HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127971
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | ESPN 2 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png", DEPORTES | ESPN 2 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127973
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | ESPN 3 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png", DEPORTES | ESPN 3 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127974
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | ESPN DEPORTES HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/9e0f4764c088f7c5ebae1d1d2241de0b.png", DEPORTES | ESPN DEPORTES HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127978
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS SD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/15687ed27b4587758f022306d2794916.png", DEPORTES | FOX SPORTS SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127988
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS 1 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/5c5423d38b668f64ee463c5e93edf8ec.jpg", DEPORTES | FOX SPORTS 1 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127991
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS 2 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/5c9d7aa673c9066a7362bb4eb6a67830.png", DEPORTES | FOX SPORTS 2 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127993
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS 3 HD" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/6ee0e8bd2c5eec8aa7e936a2e7e0c9ab.png", DEPORTES | FOX SPORTS 3 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127995
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS MX" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/6ee0e8bd2c5eec8aa7e936a2e7e0c9ab.png", DEPORTES | FOX SPORTS MX
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127996
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | FOX SPORTS MX 2" group="Deporte ⚽" logo="http://streamgo.vip:8008/images/e84f5f9be9671d67d9d259c7188920f9.png", DEPORTES | FOX SPORTS MX 2
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127997
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | Fox sports Premiun HD Ligero" group="Deporte ⚽" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ4iCDaoppE0aGP-lA--AcdGJeHu2oOH4IerpBFgInte2SNPzVOG-VUJ4vk-axDN3MaQ&usqp=CAU", DEPORTES | Fox sports Premiun HD Ligero
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/127999
+#EXTINF:0 type="favorites" channelId="-1" name="DEPORTES | TNT SPORTS" group="Deporte ⚽" logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1", DEPORTES | TNT SPORTS
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/128028
+#EXTINF:0 type="favorites" channelId="2410" name="Baby First" group="Infantiles ⭐" logo="http://streamgo.vip:8008/images/5569d23a30e46bb5997dc054944a792c.png", Baby First
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160111
+#EXTINF:0 type="favorites" channelId="473" name="Baby Tv" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/c44f00e448578aec38a71f0a3002e53c.png", Baby Tv
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160112
+#EXTINF:0 type="favorites" channelId="40" name="Cartoon Network" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/338608dbfa0b80564bd882b6911ecda9.png", Cartoon Network
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160113
+#EXTINF:0 type="favorites" channelId="19" name="Disney Channel" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/79a7a0b80fa050e0dbec84f30f15c09b.png", Disney Channel
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160114
+#EXTINF:0 type="favorites" channelId="2505" name="Discovery Kids" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/5be0a94a27b0a19e4cd1229fa50f8735.png", Discovery Kids
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160115
+#EXTINF:0 type="favorites" channelId="1197" name="Disney Junior" group="Infantiles ⭐" logo="http://streamgo.vip:8008/images/a3a8005558104f9ff3370bcc55bbe377.png", Disney Junior
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160116
+#EXTINF:0 type="favorites" channelId="41" name="Nick" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/ad9e9b9a87f44a49a11fe28b8accfa93.png", Nick
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160117
+#EXTINF:0 type="favorites" channelId="2708" name="Nick 2" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/2e38730ff5e12fcc181107ccbe03a357.png", Nick 2
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160118
+#EXTINF:0 type="favorites" channelId="2639" name="Tooncast" group="Infantiles ⭐" logo="http://www.skytvpluzz.online:8000/images/7199af2d9dbaf01e82458d1e0091da53.png", Tooncast
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/160120
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | A3S" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/ec61aa8f930a5078f5c83c5c6e3ca4e7.jpg", Latino | A3S
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135427
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | ADN40" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/73ab2bd43186d2473ec958c393e2a86a.jpg", Latino | ADN40
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135428
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | AZ CORAZON" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/8b6933ebbd1a64ed6b577a5d4fad9505.jpg", Latino | AZ CORAZON
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135429
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Canal De Las Estrellas" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/725d8dc5f6784c60e22dcb374dd160f8.jpg", Latino | Canal De Las Estrellas
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135431
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Glitz" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/937dd1a6d4612028a613d1d26f355a50.jpg", Latino | Glitz
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135432
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | TLnovelas" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/c1dd441128f2b1a40d8cda05f48df0d1.jpg", Latino | TLnovelas
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135434
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO  SONY NOVELA HD" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/f39504a30ce0bcfd1169815124ca5f93.jpg", LATINO  SONY NOVELA HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135437
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO  SEO TV NOVELAS HD" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/7180c8d72fbd10c1c9c46d82730c7d41.jpg", LATINO  SEO TV NOVELAS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135438
+#EXTINF:0 type="favorites" channelId="-1" name="TL NOVELAS UNIVISION" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/f99961b469bfb770cae4ea1a0e3f612b.jpg", TL NOVELAS UNIVISION
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135439
+#EXTINF:0 type="favorites" channelId="-1" name="D DRAMA" group="Telenovelas ⭐️" logo="http://streamgo.vip:8008/images/fcb5b0d6e9a31b0b0cfbe94d664a9b18.jpg", D DRAMA
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/135440
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO PHOENIX ARIZONA" group="Telemundo ⭐" logo="http://127.0.0.1/", TELEMUNDO PHOENIX ARIZONA
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162835
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO COLORADO HD" group="Telemundo ⭐" logo="http://teamnextlevel.xyz:25461/images/f2ed65b0e7aa70affa57af9e4fe82798.png", TELEMUNDO COLORADO HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162837
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO NEW ORLEANS HD" group="Telemundo ⭐" logo="http://teamnextlevel.xyz:25461/images/f2ed65b0e7aa70affa57af9e4fe82798.png", TELEMUNDO NEW ORLEANS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162839
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO NEBRASKA HD" group="Telemundo ⭐" logo="http://streamgo.vip:8008/images/855629a668a82e6da2d1254f0bccf6f9.png", TELEMUNDO NEBRASKA HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162840
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO CONNECTICUT" group="Telemundo ⭐" logo="http://streamgo.vip:8008/images/855629a668a82e6da2d1254f0bccf6f9.png", TELEMUNDO CONNECTICUT
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162842
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO PR" group="Telemundo ⭐" logo="https://apk.co/images/telemundo-puerto-rico-541.png", TELEMUNDO PR
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162845
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo 25 Denver HD" group="Telemundo ⭐" logo="http://www.skytvpluzz.online:8000/images/d7809d368e9afffdab5769aa44df8248.png", Telemundo 25 Denver HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162847
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo 39 Las Vegas HD" group="Telemundo ⭐" logo="http://www.skytvpluzz.online:8000/images/d7809d368e9afffdab5769aa44df8248.png", Telemundo 39 Las Vegas HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/162849
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA 01" group="24/7 Cine ✅" logo="http://zonatv.info:45862/images/6c0b3a772dd4e8f43e744ab2be20c8b5.jpg", ☣ CINEMA 01
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147813
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA 02" group="24/7 Cine ✅" logo="http://zonatv.info:45862/images/6c0b3a772dd4e8f43e744ab2be20c8b5.jpg", ☣ CINEMA 02
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147814
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA 03" group="24/7 Cine ✅" logo="http://zonatv.info:45862/images/6c0b3a772dd4e8f43e744ab2be20c8b5.jpg", ☣ CINEMA 03
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147815
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA ESTRENOS" group="24/7 Cine ✅" logo="http://zonatv.info:45862/images/6c0b3a772dd4e8f43e744ab2be20c8b5.jpg", ☣ CINEMA ESTRENOS
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147816
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA 05" group="24/7 Cine ✅" logo="http://zonatv.info:45862/images/6c0b3a772dd4e8f43e744ab2be20c8b5.jpg", ☣ CINEMA 05
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147817
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA MARVEL DC" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/c307616ceec76b4e8bfccf1b69d2a24e.jpg", ☣ CINEMA MARVEL DC
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147818
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA HAPPY MADISON HD" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/10efbc3cf76b1af045ce0f77d81ac7d5.jpg", ☣ CINEMA HAPPY MADISON HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147822
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA DREAM WORKS HD" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/636fe82f44cf670cee97b99bae8ecc30.jpg", ☣ CINEMA DREAM WORKS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147823
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA DC COMICS HD" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/dd09ab87010e8eb3917abcbd78877e9f.jpg", ☣ CINEMA DC COMICS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147826
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA ACCION CLASSICS HD" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/2ef53f519247aeddc27b858f2377302e.jpg", ☣ CINEMA ACCION CLASSICS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147827
+#EXTINF:0 type="favorites" channelId="-1" name="☣ CINEMA MOVIE CENTER KIDS HD" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/b1d5563393db334a61a93e3e6c139ef1.jpg", ☣ CINEMA MOVIE CENTER KIDS HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147828
+#EXTINF:0 type="favorites" channelId="-1" name="PPV CINEMA 1 HD" group="24/7 Cine ✅" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPks_dvZOfTFegMPf4tGXiU0S5kKpzI_Amw&usqp=CAU", PPV CINEMA 1 HD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147830
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 M| Cinema 25" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/8babe131b64bcb337826c49ca0025cfe.jpg", 24/7 M| Cinema 25
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147856
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 M|Peliculas Marvel" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/240570c634af691d99c5cd4340b443dd.jpg", 24/7 M|Peliculas Marvel
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147857
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 M|Películas Fantasía" group="24/7 Cine ✅" logo="http://streamgo.vip:8008/images/4e9fbfeda052efb0970eec5bf52df7c0.jpg", 24/7 M|Películas Fantasía
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/147858
+#EXTINF:0 type="favorites" channelId="-1" name="NEWS: CNN INTERNATIONAL SD" group="Noticias ⭐" logo="http://streamgo.vip:8008/images/a3f5eb3f27fbe0f1b0f00d013e0b166c.jpg", NEWS: CNN INTERNATIONAL SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/121096
+#EXTINF:0 type="favorites" channelId="-1" name="NEWS: HLN" group="Noticias ⭐" logo="https://upload.wikimedia.org/wikipedia/commons/2/21/HLN_2017_logo.jpg", NEWS: HLN
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/121097
+#EXTINF:0 type="favorites" channelId="-1" name="NEWS: NTN24 SD" group="Noticias ⭐" logo="http://streamgo.vip:8008/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png", NEWS: NTN24 SD
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/121098
+#EXTINF:0 type="favorites" channelId="-1" name="NEWS: CNN ESPAÑOL" group="Noticias ⭐" logo="http://streamgo.vip:8008/images/00866de583d4e4112e275b052f97f0f8.png", NEWS: CNN ESPAÑOL
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/121107
+#EXTINF:0 type="favorites" channelId="-1" name="24H Kids | Hey Arnold" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/604c9eec55d0d4f9a73d4a34e8ca0783.png", 24H Kids | Hey Arnold
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158319
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El Show de Scooby Doo" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/67c251819f200fc652a689b497e0ea23.png", 24/7 El Show de Scooby Doo
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158321
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Los padrinos mágicos" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/aafb0942dc1ddfd7947af68d4ededfab.png", 24/7 Los padrinos mágicos
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158322
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Ben 10" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/ca93000c2032d4a47c7e9b07a8a08a72.png", 24/7 Ben 10
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158326
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El Pájaro Loco y sus Amigos" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/f79ab66cec8742d85ed10e74bb04756a.png", 24/7 El Pájaro Loco y sus Amigos
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158327
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El coche fantástico" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/6c3a0b6b087640a2d10ebd03fe5d0db0.png", 24/7 El coche fantástico
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158328
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Arma letal EN" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/d73a1f84f8a4e863071a968efeaa5d4a.png", 24/7 Arma letal EN
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158330
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El Chavo del Ocho" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/521f23d91b386536fd1bf29bda3d4f1d.png", 24/7 El Chavo del Ocho
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158331
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Futurama" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/54a69873150aa1ef8f1a064bbe2325e5.png", 24/7 Futurama
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158332
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Dragon Ball Z - Saga de Freezer" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/21885185ac52c504ac8b2cac4814e1d8.png", 24H | Dragon Ball Z - Saga de Freezer
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158335
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Dragon Ball Super" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/dcc375dd1037e0e94cd063ca3268f41d.png", 24H | Dragon Ball Super
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158337
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los Simpsons 1-20" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/c3c8c3fed3e2f7fcc35fb4dd801a5ac2.png", 24H | Los Simpsons 1-20
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158338
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Smallville" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/7616b4741a15c7ea33f61df5e4425e11.png", 24H | Smallville
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158339
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Cinema Disney Pixar" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/08a0ca5999980ba24524bf5ac83bf3dd.png", 24H | Cinema Disney Pixar
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158340
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Cantinflas" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/d7294d8d180dc3c0ffc1297261847acc.png", 24H | Cantinflas
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158341
+#EXTINF:0 type="favorites" channelId="-1" name="24H | El Chavo del 8" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/bd395918dda40709697e3ab166592655.png", 24H | El Chavo del 8
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158342
+#EXTINF:0 type="favorites" channelId="-1" name="24H | ALF" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/ac3bf0bac92e34895d7d6e82b7858eb7.png", 24H | ALF
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158343
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Naruto" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/3d8d1266e94d24fcb6bdec9bde7cd171.png", 24H | Naruto
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158344
+#EXTINF:0 type="favorites" channelId="-1" name="24H | La Pantera Rosa" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/31ae297f05c3472c9583516f9e40e596.png", 24H | La Pantera Rosa
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158345
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Dragon Ball GT" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/3ce36ce2fa9aecbf7f9ae831cc57efd6.png", 24H | Dragon Ball GT
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158346
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los PicaPiedra" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/696d0c748964e837bf0ac0190fccabed.png", 24H | Los PicaPiedra
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158347
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Mr. Bean" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/295b943c064dd1fc977d38e6386dcb2a.png", 24H | Mr. Bean
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158348
+#EXTINF:0 type="favorites" channelId="-1" name="CORRECAMINOS (LOONEY TUNES) 24-7" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/d3e80d0c3843ed8071a108a340a802cb.png", CORRECAMINOS (LOONEY TUNES) 24-7
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158349
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Chespirito" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/95021ce0f921a91e9793d08557fca87f.png", 24H | Chespirito
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158350
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Dragon Ball Z - Saga Majin Boo" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/21885185ac52c504ac8b2cac4814e1d8.png", 24H | Dragon Ball Z - Saga Majin Boo
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158353
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Games of Thrones" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/1e80daa040f3442515bfff9ba31af773.png", 24H | Games of Thrones
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158354
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Batman" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/bc900bf69bc87755063b7679d9c0756c.png", 24H | Batman
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158355
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Dragon Ball Z" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/72028f982d5bd91cd4fa6f7be5df9861.png", 24H | Dragon Ball Z
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158356
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Pocoyo" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/852fe2fd3a425ad4c2ea5faa7effec55.png", 24H | Pocoyo
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158357
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Pokémon" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/36a77fe70c518a42231589ba0450fa73.png", 24H | Pokémon
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158360
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Plim Plim" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/064914c9d2ae1856d05d6beb8b84e749.png", 24H | Plim Plim
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158361
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los Picapiedra" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/743d3140a7da5334f634756a08e32061.png", 24H | Los Picapiedra
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158362
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Coraje - El Perro Cobarde" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/3defd040ef085940161ea1988a4ffbb5.png", 24H | Coraje - El Perro Cobarde
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158363
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Paw Patrol" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/a102761630858d2e3aebbd55b950491d.png", 24H | Paw Patrol
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158365
+#EXTINF:0 type="favorites" channelId="-1" name="24H | La casa de papel" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/42eefc3976ab03d98723f457bea21ca7.png", 24H | La casa de papel
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158366
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Harry Potter" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/1a42cdf46d74ddad728946b24afef925.png", 24H | Harry Potter
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158368
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Rocky" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/94184d6086319d662f8de000a600fb17.png", 24H | Rocky
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158369
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Peliculas Infantiles" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/6e1e04667f433e4f7c2774fd8f30064e.png", 24H | Peliculas Infantiles
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158375
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El juego del calamar" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/65d430f3e41cf16d7976a34190609e2b.png", 24/7 El juego del calamar
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158376
+#EXTINF:0 type="favorites" channelId="-1" name="24H | El principe del Rap" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/4efa803aca8bd77db8de5aa96d2d48c1.png", 24H | El principe del Rap
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158378
+#EXTINF:0 type="favorites" channelId="-1" name="24H | La Familia P. Luche" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/3cbf0bdb0ee901a32036fb310e1dc927.png", 24H | La Familia P. Luche
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158379
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los 3 Chiflados" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/50797953391d1dc34a556b5968767dae.png", 24H | Los 3 Chiflados
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158380
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Mr Bean" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/7e66b29e30745476c76fd06e0dc92050.png", 24H | Mr Bean
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158381
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | 2 Perros Tontos" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | 2 Perros Tontos
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158384
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |  Aladdin" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/ef47366f95a60d4357d8589079a65329.png", 24/7 |  Aladdin
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158388
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Ataque de los Titanes" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/718828e6113e914a0d362fd2f1a76de2.png", 24/7 | Ataque de los Titanes
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158394
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Blanca Nieves" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | Blanca Nieves
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158407
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Bugs Bunny - looney Tunes" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | Bugs Bunny - looney Tunes
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158408
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Buzz LigthYear: Comando Estelar" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/775a154ce0db7f394acf0fb7f79f4299.png", 24/7 | Buzz LigthYear: Comando Estelar
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158409
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Canuto y Canito" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | Canuto y Canito
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158410
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Casa Dibujos" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | Casa Dibujos
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158414
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Cuentos de la Cripta" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/df1e016ece806e340f63a0793bf2a06b.png", 24/7 | Cuentos de la Cripta
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158420
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Daria" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | Daria
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158423
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Luisito Minidocumental" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/e57261fcd8ee3a0711870b1e2f5fdc3f.jpg", 24H | Luisito Minidocumental
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158635
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El Show de Scooby Doo" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/67c251819f200fc652a689b497e0ea23.png", 24/7 El Show de Scooby Doo
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158633
+#EXTINF:0 type="favorites" channelId="-1" name="24H | X MEN" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/b7abbcf0a2f475d0e161b70484d842c4.png", 24H | X MEN
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158618
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los pequeños Looney Tunes" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/295502f262b1da842bfb5ab0e861bf87.png", 24H | Los pequeños Looney Tunes
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158556
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Los imposibles" group="24/7 VIP ✅" logo="http://streamgo.vip:8008/images/7b435cb607f96baec5035b4b89207dc1.png", 24H | Los imposibles
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158550
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Looney Tunes 1936" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24H | Looney Tunes 1936
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158544
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | El show de Scooby-Doo" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | El show de Scooby-Doo
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158467
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | El show de Ren y stimpy" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | El show de Ren y stimpy
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158466
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | El pajaro loco" group="24/7 VIP ✅" logo="http://127.0.0.1/", 24/7 | El pajaro loco
+http://streamgo.vip:8008/Lucia937748556/eZyGdW6XR6wS/158465
